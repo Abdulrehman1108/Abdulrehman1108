@@ -85,9 +85,20 @@
 
 <h2>🌎 Connect With Me</h2>
 <p>
-    <a href="https://linkedin.com/in/abdulrehman1108" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
-    <a href="mailto:abdulrehman1108@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
+    <a href="https://www.linkedin.com/in/abdul-rehman-khan-2a4086265/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+    </a>
+    <a href="mailto:kmani11811@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
+    </a>
+    <a href="https://www.instagram.com/abdul.rehman.khan_/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram"/>
+    </a>
+    <a href="https://www.fiverr.com/sellers/abdul_rehman181/" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-green?style=flat&logo=fiverr"/>
+    </a>
 </p>
+
 
 <h3>🚀 Let's Build Something Awesome Together!</h3>
 <p>Feel free to check out my projects and let's collaborate on something innovative! ✨</p>
@@ -95,19 +106,5 @@
 </body>
 </html>
 
-#   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8 
- 
- #   A b d u l r e h m a n 1 1 0 8  
+#   A b d u l r e h m a n 1 1 0 8  
  
