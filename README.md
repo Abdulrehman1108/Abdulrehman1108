@@ -79,8 +79,7 @@
 
 <h2>📈 GitHub Stats & Activity</h2>
 <div class="stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman1108&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&count_private=true&include_all_commits=true&hide_rank=false&line_height=28" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman1108&theme=radical" alt="GitHub Streak" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman1108&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&count_private=true&include_all_commits=true&hide_rank=false&line_height=28" alt="GitHub Stats" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman1108&layout=compact&theme=radical&langs_count=10&custom_title=Most%20Used%20Languages&hide=php&langs=JavaScript,TypeScript,HTML,CSS,Python,Jupyter%20Notebook,Bash,C++,Go,Rust,TensorFlow" alt="Top Languages" />
 </div>
 
@@ -97,6 +96,8 @@
 </html>
 
 #   A b d u l r e h m a n 1 1 0 8 
+ 
+ #   A b d u l r e h m a n 1 1 0 8 
  
  #   A b d u l r e h m a n 1 1 0 8 
  
