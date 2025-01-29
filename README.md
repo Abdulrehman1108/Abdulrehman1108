@@ -15,7 +15,7 @@
 <ul>
     <li>💻 <strong>4+ years</strong> of experience in Full Stack Development</li>
 <li>🚀 Specialized in <strong>React.js, Next.js, Node.js, Express, MongoDB, Firebase</strong></li>
-<li>🎨 Expertise in <strong>TailwindCSS, Material UI, ShadCN UI, Framer Motion, Sass, Bootstrap, Chakra UI, Ant Design</strong> for stunning UI/UX</li>
+<li>🎨 Expertise in <strong>TailwindCSS, Material UI, ShadCN UI, Framer Motion, Sass, Bootstrap, Chakra UI</strong> for stunning UI/UX</li>
 <li>🔗 Strong knowledge of <strong>REST APIs, GraphQL, Postman, WebSockets, and Serverless architectures</strong></li>
 <li>📊 Experienced in <strong>SQL & NoSQL databases: MySQL, PostgreSQL, MongoDB, Oracle</strong></li>
 <li>☁️ Cloud computing with <strong>AWS, Firebase, GCP</strong></li>
@@ -97,6 +97,8 @@
 </html>
 
 #   A b d u l r e h m a n 1 1 0 8 
+ 
+ #   A b d u l r e h m a n 1 1 0 8 
  
  #   A b d u l r e h m a n 1 1 0 8 
  
