@@ -13,7 +13,7 @@
 
 <h2>🔥 About Me</h2>
 <ul>
-    <li>💻 <strong>3+ years</strong> of experience in Full Stack Development</li>
+    <li>💻 <strong>1+ years</strong> of experience in Full Stack Development</li>
 <li>🚀 Specialized in <strong>React.js, Next.js, Node.js, Express, MongoDB, Firebase</strong></li>
 <li>🎨 Expertise in <strong>TailwindCSS, Material UI, ShadCN UI, Framer Motion, Sass, Bootstrap</strong> for stunning UI/UX</li>
 <li>🔗 Strong knowledge of <strong>REST APIs, GraphQL, Postman, WebSockets, and Serverless architectures</strong></li>
